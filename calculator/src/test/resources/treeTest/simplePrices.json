@@ -1,0 +1,22 @@
+[
+  {
+    "product-type": "hoodie",
+    "options": {
+      "size": ["small", "medium"],
+      "colour": ["white", "dark"],
+      "print": ["front"],
+      "producer": ["myCompany"]
+    },
+    "base-price": 100
+  },
+  {
+    "product-type": "hoodie",
+    "options": {
+      "size": "large",
+      "colour": "white",
+      "print": ["front"],
+      "producer": ["anotherCompany"]
+    },
+    "base-price": 200
+  }
+]

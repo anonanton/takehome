@@ -1,0 +1,11 @@
+<project>
+  	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.redbubble.takehome</groupId>
+	<artifactId>aggrigator</artifactId>
+	<version>1.0</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>calculator</module>
+		<module>cli</module>
+	</modules>
+</project>
